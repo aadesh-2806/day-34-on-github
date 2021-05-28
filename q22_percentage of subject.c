@@ -10,7 +10,7 @@ void main()
 	
 	i=0;
 	s=0;
-	while(i<n)
+	while(i<n) 
 	{
 		printf("enter percentage of subject %d",i+1);
 		scanf("%f",a[i]);
