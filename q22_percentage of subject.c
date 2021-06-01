@@ -6,7 +6,7 @@ void main()
 	int n,i,t;
 	float a[10],s;
 	printf("hello\nenter no of subjects=");
-	scanf("%d",&n);
+	scanf("%d",&n); 
 	
 	i=0;
 	s=0;
